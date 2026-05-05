@@ -28,15 +28,15 @@ Students and professionals frequently encounter audio format issues when downloa
 
 ---
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-*(Replace these placeholder links with actual images of your app!)*
 
-| Dashboard (Dark Mode) | Processing Queue (Light Mode) |
-| :---: | :---: |
-| <img src="[https://via.placeholder.com/400x250.png?text=Main+App+Interface](https://via.placeholder.com/400x250.png?text=Main+App+Interface)" width="400"> | <img src="[https://via.placeholder.com/400x250.png?text=Batch+Converting](https://via.placeholder.com/400x250.png?text=Batch+Converting)..." width="400"> |
+## Dashboard (Dark Mode)
+<img width="1918" height="1016" alt="Dark" src="https://github.com/user-attachments/assets/71572fab-939a-4aa2-88e0-d12bce85ca18" />
 
----
+##  Dashboard (Light Mode)
+
+<img width="1918" height="1022" alt="Light" src="https://github.com/user-attachments/assets/c663b7c9-5dac-48e0-bb2c-ea4ceb71d14f" />
 
 ## ⚙️ System Design & Architecture
 
