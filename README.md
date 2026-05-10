@@ -8,6 +8,32 @@
 
 ---
 
+<div align="center">
+
+# 🎵 Audio2MP3
+
+### Fast, lightweight and modern audio-to-MP3 converter built with Python.
+
+<br>
+
+<a href="https://github.com/sahilAIML/Audio2mp3/releases/download/Project/Audio_to_mp3.exe">
+  <img src="https://img.shields.io/badge/⬇%20Download-Windows%20EXE-2563eb?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/sahilAIML/Audio2mp3/archive/refs/tags/Project.zip">
+  <img src="https://img.shields.io/badge/📦%20Source%20Code-ZIP-16a34a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python">
+<img src="https://img.shields.io/badge/Platform-Windows-blue?style=flat-square&logo=windows">
+<img src="https://img.shields.io/badge/License-MIT-green?style=flat-square">
+
+</div>
+
 ## 📖 Abstract & Overview
 
 Students and professionals frequently encounter audio format issues when downloading lectures, utilizing sound clips, or sharing voice notes. While online converters exist, they require internet access, enforce strict file size limits, and risk user privacy. 
